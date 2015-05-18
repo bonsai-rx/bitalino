@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Bitalino.Net</id>
+    <version>1.1.0</version>
+    <title>BITalino.NET</title>
+    <authors>Filipe Silva</authors>
+    <owners>Gonçalo Lopes</owners>
+    <licenseUrl>https://raw.githubusercontent.com/BITalinoWorld/dotNet-api/master/COPYING.LESSER</licenseUrl>
+    <projectUrl>https://github.com/BITalinoWorld/dotNet-api</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/488636767994523648/hpEe_S0H_400x400.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The BITalino .NET API is a .NET class library which enables Windows .NET applications to communicate with a BITalino device through a simple interface. This package provides support for both 32-bit and 64-bit systems.</description>
+    <copyright>plux © 2014</copyright>
+    <tags>BITalino Bio Body Signals</tags>
+  </metadata>
+</package>
